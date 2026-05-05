@@ -1,0 +1,34 @@
+{
+	"id": "aecc8c88-4ccc-474d-bc5a-48bf354ef09d",
+	"name": "Environment 1",
+	"values": [
+		{
+			"key": "baseurl",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Product_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Cart_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": 120,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-05T08:34:12.476Z",
+	"_postman_exported_using": "Postman/12.9.2-260505-0232"
+}
